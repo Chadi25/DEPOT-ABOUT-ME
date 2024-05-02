@@ -16,7 +16,7 @@ body {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     text-align: center;
     width: 90%;
-    max-width: 500px;
+    max-width: 800px; /* Augmenter la largeur maximale du conteneur */
 }
 
 .profile-image {
@@ -34,8 +34,8 @@ body {
 }
 
 .certifications img {
-    max-width: 150px;
-    max-height: 100px;
+    max-width: 200px; /* Augmenter la largeur maximale des images */
+    max-height: 150px; /* Augmenter la hauteur maximale des images */
     margin: 5px;
 }
 
