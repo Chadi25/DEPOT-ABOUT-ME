@@ -133,3 +133,12 @@ body.dark-mode {
 .social-links a.mail-button:hover {
     background-color: #45a049;
 }
+
+.social-links a.phone-button {
+    background-color: #007BFF;
+    color: white;
+}
+
+.social-links a.phone-button:hover {
+    background-color: #0056b3;
+}
